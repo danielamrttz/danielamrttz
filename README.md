@@ -1,16 +1,17 @@
-## Hi there 👋
+## ¡Hola! Soy Daniela Martínez 👋
 
-<!--
-**danielamrttz/danielamrttz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante del 2 curso de desarrollo de aplicaciones web.
 
-Here are some ideas to get you started:
+🚀 Tecnologías que manejo:
+- JavaScript | Bootsrap | JQuery
+- Java | Php 
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Últimos proyectos:
+- [Proyecto1](enlace_a_repositorio)
+- [Proyecto2](enlace_a_repositorio)
+
+📧 danielamartinezfernandez10@gmail.com
+
+¡Gracias!
+
